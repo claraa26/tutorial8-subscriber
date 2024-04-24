@@ -13,3 +13,6 @@ First guest: username yang digunakan untuk mengautentikasi koneksi. </br>
 Second guest: password digunakan untuk proses autentikasi. </br> 
 localhost: IP _address_ dimana sistem tersebut dijalankan </br>
 5672: nomor porst yang digunakan
+
+## RabbitMQ
+![](https://imgur.com/a/3zEu2jr.png)
