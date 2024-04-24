@@ -16,3 +16,5 @@ localhost: IP _address_ dimana sistem tersebut dijalankan </br>
 
 ## RabbitMQ
 ![](https://imgur.com/a/3zEu2jr.png)
+Producer akan terus mengirim request dan akan diletakan pad queue message. Dan consumer akan memprosesnya satu persatu secara lambat. total queue in my machine 15
+![](https://imgur.com/Lqnv8OP)
