@@ -18,3 +18,7 @@ localhost: IP _address_ dimana sistem tersebut dijalankan </br>
 ![](https://imgur.com/a/3zEu2jr.png)
 Producer akan terus mengirim request dan akan diletakan pad queue message. Dan consumer akan memprosesnya satu persatu secara lambat. total queue in my machine 15
 ![](https://imgur.com/Lqnv8OP)
+
+Saya menjalankan di 3 console berbeda. Dapat dilihat bahwa data yang ditampilkan berbeda urutannya dengan sebelumnya karna subscribernya multithread, namun hal tersebut membantu meningkatkan kemampuan untuk menjalankan mutiple event
+![](https://imgur.com/Tf7l0vi)
+![](https://imgur.com/bupOodb)
